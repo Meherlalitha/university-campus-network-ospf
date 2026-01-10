@@ -24,7 +24,7 @@ This project highlights both network design and hands‑on troubleshooting, refl
 
 
 
-&nbsp;**Network Topology:**
+**Network Topology:**
 
 
 
