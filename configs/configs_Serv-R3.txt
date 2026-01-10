@@ -1,0 +1,23 @@
+Serv-R3#show running-config
+Building configuration...
+
+Current configuration : 1201 bytes
+!
+version 15.1
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+no service password-encryption
+!
+hostname Serv-R3
+!
+!
+!
+!
+!
+!
+!
+!
+no ip cef
+no ipv6 cef
+!
+!
