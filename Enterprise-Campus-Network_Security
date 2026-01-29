@@ -1,0 +1,74 @@
+# Meher Lalitha - Network Engineering Portfolio
+
+Welcome to my Network Engineering Portfolio.  
+This repository serves as a central hub for all my hands‑on networking projects, including campus network design, routing, switching, wireless, firewalling, security hardening, and ISP edge integration.
+
+Each project includes:
+- Full technical documentation  
+- Packet Tracer topologies  
+- Configurations  
+- Troubleshooting logs  
+- Security controls  
+- Validation tests  
+
+---
+
+## **Project 1: University Campus Network (OSPF)**  
+**Folder:** /university-campus-network-ospf  
+A multi‑router OSPF‑based university network demonstrating dynamic routing, VLAN segmentation, inter‑VLAN routing, and multi‑area OSPF design.
+
+**Key Features**
+- Multi‑area OSPF  
+- VLANs & trunking  
+- Inter‑VLAN routing  
+- DHCP services  
+- End‑to‑end connectivity validation  
+
+---
+
+##  **Project 2: Enterprise Campus Network with Security Hardening (NEW)**  
+**Folder:** /enterprise-campus-network-security  
+A full enterprise‑grade network implementation with advanced security controls, firewall NAT, ISP integration, WLAN, and complete troubleshooting workflow.
+
+**Highlights**
+- VLAN segmentation (Staff, Students, Wireless, Management, DMZ)  
+- Inter‑VLAN routing via core router  
+- DHCP Snooping  
+- Dynamic ARP Inspection (DAI)  
+- Port Security (sticky MAC, violation restrict)  
+- STP enhancements (Rapid‑PVST+, PortFast, BPDU Guard, Root Guard)  
+- Wireless VLAN integration  
+- Firewall inside/outside segmentation  
+- NAT overload for Internet access  
+- ISP router + Cloud (8.8.8.8 simulation)  
+- End‑to‑end troubleshooting (core → firewall → ISP → cloud)  
+- Packet Tracer topology included  
+
+---
+
+## **Project 3: Additional Networking Labs (Coming Soon)**  
+This repository will continue to grow with additional labs, including:
+- WAN technologies  
+- VPN configuration  
+- ACL security labs  
+- Advanced routing (EIGRP, BGP)  
+- Wireless controller labs  
+---
+## About Me I am a Network & Cybersecurity practitioner with hands‑on experience in:
+Routing & Switching
+Firewalling & NAT 
+Network Security (DHCP Snooping, DAI, Port Security, STP security) 
+SOC/NOC operations 
+Wireshark analysis 
+Linux fundamentals 
+Virtualization & lab building (VMware, Packet Tracer) 
+I specialize in building realistic, production‑style labs and documenting them with clarity and precision. 
+
+--- 
+## Contact If you’d like to connect or collaborate: 
+LinkedIn: https://www.linkedin.com/in/meherlalitha/
+Email:thatavarthi.meher@gmail.com
+Thank you for viewing my portfolio. 
+**More projects coming soon!**
+
+
