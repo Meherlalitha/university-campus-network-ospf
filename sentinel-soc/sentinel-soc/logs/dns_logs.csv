@@ -1,1 +1,7 @@
+timestamp,host,query,query_length,entropy
+2025-04-27T12:00:01Z,WIN10-WS01,login.example.com,17,2.1
+2025-04-27T12:00:05Z,WIN10-WS01,update.microsoft.com,21,2.3
+2025-04-27T12:00:10Z,WIN10-WS01,ajd92kals9x.example.net,22,4.1
+2025-04-27T12:05:10Z,DC01,_kerberos._tcp.example.com,26,2.0
+2025-04-27T12:06:10Z,BACKUP01,backup.example.com,18,2.2
 
