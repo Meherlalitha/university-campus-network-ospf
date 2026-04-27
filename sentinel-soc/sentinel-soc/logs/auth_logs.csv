@@ -1,1 +1,11 @@
+timestamp,username,source_ip,host,action,detail
+2025-04-27T10:01:12Z,jdoe,203.0.113.10,WIN10-WS01,FAIL,VPN login failed
+2025-04-27T10:01:25Z,jdoe,203.0.113.10,WIN10-WS01,FAIL,VPN login failed
+2025-04-27T10:01:39Z,jdoe,203.0.113.10,WIN10-WS01,FAIL,VPN login failed
+2025-04-27T10:01:55Z,jdoe,203.0.113.10,WIN10-WS01,SUCCESS,VPN login successful
+2025-04-27T11:15:02Z,admin,198.51.100.5,DC01,FAIL,Windows logon failed
+2025-04-27T11:15:10Z,admin,198.51.100.5,DC01,FAIL,Windows logon failed
+2025-04-27T11:15:18Z,admin,198.51.100.5,DC01,FAIL,Windows logon failed
+2025-04-27T11:15:26Z,admin,198.51.100.5,DC01,FAIL,Windows logon failed
+2025-04-27T12:05:10Z,svc_backup,10.0.0.50,BACKUP01,SUCCESS,Scheduled backup login
 
