@@ -1,1 +1,31 @@
+[
+  {
+    "timestamp": "2025-04-27T12:00:20Z",
+    "host": "WIN10-WS01",
+    "process_name": "powershell.exe",
+    "behavior": "EncodedCommand",
+    "severity": 8
+  },
+  {
+    "timestamp": "2025-04-27T12:02:20Z",
+    "host": "WIN10-WS01",
+    "process_name": "cmd.exe",
+    "behavior": "Suspicious child process",
+    "severity": 6
+  },
+  {
+    "timestamp": "2025-04-27T12:10:20Z",
+    "host": "DC01",
+    "process_name": "lsass.exe",
+    "behavior": "Access attempt by non-system process",
+    "severity": 9
+  },
+  {
+    "timestamp": "2025-04-27T12:15:20Z",
+    "host": "BACKUP01",
+    "process_name": "backup.exe",
+    "behavior": "Normal scheduled backup",
+    "severity": 1
+  }
+]
 
